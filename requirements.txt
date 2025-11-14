@@ -1,0 +1,9 @@
+pyspark
+kafka-python
+pandas
+numpy
+requests
+sqlalchemy
+psycopg2
+boto3
+jupyter
